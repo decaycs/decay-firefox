@@ -10,6 +10,8 @@
 
 ### Decayce
 
+<img src="./.assets/decayce.png">
+
 ### Dark Decay
 
 <img src="./.assets/dark-decay.png">
